@@ -1,0 +1,6 @@
+2018-1-9 10:49:46[ERROR](DruidAbstractDataSource.java:1127) oracle.jdbc.driver.OracleDriver is deprecated.
+2018-1-9 11:05:55[ERROR](DruidAbstractDataSource.java:1127) oracle.jdbc.driver.OracleDriver is deprecated.
+2018-1-9 11:08:59[ERROR](DruidAbstractDataSource.java:1127) oracle.jdbc.driver.OracleDriver is deprecated.
+2018-1-9 11:14:14[ERROR](DruidAbstractDataSource.java:1127) oracle.jdbc.driver.OracleDriver is deprecated.
+2018-1-9 11:15:28[ERROR](DruidAbstractDataSource.java:1127) oracle.jdbc.driver.OracleDriver is deprecated.
+2018-1-9 11:17:18[ERROR](DruidAbstractDataSource.java:1127) oracle.jdbc.driver.OracleDriver is deprecated.
